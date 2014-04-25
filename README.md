@@ -1,4 +1,4 @@
-calabrian
+calabrian seed
 =========
 
-an early starting point - bare bones font end template
+an early starting point - bare bones font end / angular seed template
